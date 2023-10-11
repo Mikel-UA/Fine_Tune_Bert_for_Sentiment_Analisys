@@ -1,4 +1,4 @@
-# Fine_Tune_Bert_for_Sentiment_Analisys
+# Fine_Tune_Bert_for_Sentiment_Analysis
 
 This repository contains a Python script for sentiment analysis using BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art deep learning model for natural language processing. The script is designed to fine-tune a pre-trained BERT model on a custom sentiment analysis task.
 
